@@ -3,7 +3,10 @@
            margin: 0px;
            font-family: 'Courier New', Courier, monospace;
        }
-       #about { background: #251e1f;
+
+       #about {
+           text-align: center;
+           background: #251e1f;
            padding: 50px;
            color: rgb(240, 248, 255);
 
@@ -21,4 +24,19 @@
            margin: 0px;
            color: rgb(240, 248, 255);
            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+           border-top-right-radius: 200px;
+       }
+
+       .sections {
+           background-color: rgb(24, 22, 24);
+           padding: 30px;
+           margin: 0px;
+           border-radius: 0px;
+
+
+
+       }
+
+       h1 {
+           text-align: center;
        }
