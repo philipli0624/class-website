@@ -1,0 +1,24 @@
+       body {
+           background-color: rgb(231, 48, 78);
+           margin: 0px;
+           font-family: 'Courier New', Courier, monospace;
+       }
+       #about { background: #251e1f;
+           padding: 50px;
+           color: rgb(240, 248, 255);
+
+       }
+
+       .list {
+           background: #251e1f;
+           padding: 30px;
+           color: rgb(240, 248, 255);
+       }
+
+       .headings {
+           background-color: rgb(26, 24, 24);
+           padding: 30px;
+           margin: 0px;
+           color: rgb(240, 248, 255);
+           font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       }
